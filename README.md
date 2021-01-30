@@ -1,6 +1,6 @@
 # User-vs-Computer-Dice-Throwing-Game
 
-A simple python coding project I've done to make a small scale computer vs user game.
+A simple python coding project I have made here which is a small scale computer vs user game.
 
 ![1](https://user-images.githubusercontent.com/57751792/106347416-2757c200-6323-11eb-87de-0ca6122ec4e0.JPG)
 
